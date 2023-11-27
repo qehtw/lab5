@@ -32,7 +32,6 @@ class Fish:
 
 class Aquarium:
     def __init__(self, total_volume):
-        self.__total_volume = total_volume
         self.__free_space = total_volume
         self.__fish_list = []
 
