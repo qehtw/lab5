@@ -20,7 +20,7 @@ class Fish:
     def get_size(self):
         return self.__size
 
-    def get_peferred_food(self):
+    def get_preferred_food(self):
         return self.__preferred_food
 
     def get_is_aggressive(self):
